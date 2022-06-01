@@ -3,10 +3,6 @@
   <b>ᴅᴀʀᴋᴡᴇʙ-ʟᴏᴀᴅ</b>
 </h1>
 
-<a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
-  <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-black?logo=youtube" width="150">
-
-
 [![Stars](https://img.shields.io/github/stars/Aadhi000/Ajax-Extra-Features?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax-Extra-Features/stargazers)
 [![Forks](https://img.shields.io/github/forks/Aadhi000/Ajax-Extra-Features?style=flat-square&color=blue)](https://github.com/Aadhi000/Ajax-Extra-Features/fork)
 [![Size](https://img.shields.io/github/repo-size/Aadhi000/Ajax-Extra-Features?style=flat-square&color=red)](https://github.com/Aadhi000/Ajax-Extra-Features)   
