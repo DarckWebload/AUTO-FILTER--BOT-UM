@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/DWL.png" alt="Ajax-Extra-FeaturesLogo">
-</p>
+
 <h1 align="center">
   <b>ᴅᴀʀᴋᴡᴇʙ-ʟᴏᴀᴅ</b>
 </h1>
